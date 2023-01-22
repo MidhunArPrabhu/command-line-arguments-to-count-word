@@ -1,4 +1,4 @@
-# COMMAND-LINE-ARGUMENTS-TO-COUNT-WORD :
+# COMMAND-LINE-ARGUMENTS-TO-COUNT-WORD 
 
 ## AIM:
 
@@ -39,6 +39,9 @@ End of the program
 ## PROGRAM :
 
 ```python
+Developed by: MIDHUN AZHAHU RAJA P
+RegisterNumber: 22008311
+
 import sys
 count = {}
 with open(sys.argv[1], 'r') as f:
